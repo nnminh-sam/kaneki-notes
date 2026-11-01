@@ -1,6 +1,6 @@
 {
   "subjectSlug": "data-structures-and-algorithms-dsa",
-  "updatedAt": "2026-11-01T14:33:11.533Z",
+  "updatedAt": "2026-11-01T14:38:12.300Z",
   "files": [
     {
       "filename": "dsa-core-syllabus.md",
@@ -11,6 +11,16 @@
       "sha": "52973a4eb4f4bcfabe75a2a1604faf4b7cae32ea",
       "updatedAt": "2026-11-01T14:33:11.533Z",
       "sizeBytes": 1411
+    },
+    {
+      "filename": "module-2.md",
+      "path": "lms/data-structures-and-algorithms-dsa/sources/module-2.md",
+      "owner": "user",
+      "sourceType": "markdown",
+      "perspective": "theory",
+      "sha": "6eeb30cf4492f571833b2beb2239f54b0e370f07",
+      "updatedAt": "2026-11-01T14:38:12.300Z",
+      "sizeBytes": 220
     }
   ]
 }
